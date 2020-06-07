@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/src/java/servlet/masteradmin/servletInserirMasterAdmin.java</file>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/src/java/util/EnviarEmailContato.java</file>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/web/WEB-INF/web.xml</file>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/web/control.jsp</file>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/src/java/servlet/servletContato.java</file>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/src/java/servlet/masteradmin/servletLoginMasterAdmin.java</file>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/web/admin/index.jsp</file>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/src/java/util/Filtro2.java</file>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/web/index.jsp</file>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/src/java/servlet/admin/servletCadastrarProduto.java</file>
+            <file>file:/Users/thiagocrestani/Documents/pizza/pizza/src/java/dao/ProdutoDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
