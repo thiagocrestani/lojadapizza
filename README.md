@@ -8,3 +8,5 @@ Site de delivery feito em java e jsp
 <img src="https://uploaddeimagens.com.br/images/002/695/445/full/Imagem3.png" width="850">
 
 <img src="https://uploaddeimagens.com.br/images/002/695/447/original/Imagem4.png" width="850">
+
+<i>* Projeto feito em 2015.</i>
